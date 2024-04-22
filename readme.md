@@ -8,7 +8,7 @@ The dom tree consists of parent nodes containing child nodes, but child nodes al
 
 In the chart below you'll see a chart showing the relationship between them.
 
-![Navigation in the DOM tree](../assets/navigation.png)
+![Navigation in the DOM tree](assets/navigation.png)
 
 ## A short example
 
@@ -59,9 +59,9 @@ b.appendChild(a)
 
 A picture is worth a thousand words
 
-![Moving children](../assets/moving-child1.svg)
+![Moving children](assets/moving-child1.svg)
 
-![Moving children](../assets/moving-child2.svg)
+![Moving children](assets/moving-child2.svg)
 
 ## Exercises
 
